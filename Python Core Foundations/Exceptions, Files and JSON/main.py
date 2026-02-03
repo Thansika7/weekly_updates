@@ -173,10 +173,10 @@ class StudentManagementPortal:
                         sid = input("Enter your Student ID: ")
                         self.attendance.view_attendance_info(sid)
 
-                    elif choice == '3':  # Logout
+                    elif choice == '3':  
                         self.user_mgmt.logout()
 
-                    elif choice == '4':  # Exit
+                    elif choice == '4':  
                         print("Exited")
                         break
 
