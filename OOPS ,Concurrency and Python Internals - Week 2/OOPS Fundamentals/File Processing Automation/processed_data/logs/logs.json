@@ -1,0 +1,110 @@
+[
+  {
+    "user_id": 201,
+    "username": "akhil.r",
+    "event": "login",
+    "timestamp": "2023-11-01T08:15:23Z",
+    "device": "Web",
+    "location": "Bangalore",
+    "details": "Logged in from office network"
+  },
+  {
+    "user_id": 207,
+    "username": "meera.s",
+    "event": "view_page",
+    "timestamp": "2023-11-01T08:16:05Z",
+    "device": "Android",
+    "location": "Mumbai",
+    "details": "Visited dashboard overview"
+  },
+  {
+    "user_id": 201,
+    "username": "akhil.r",
+    "event": "download_report",
+    "timestamp": "2023-11-01T08:18:47Z",
+    "device": "Web",
+    "location": "Bangalore",
+    "details": "Downloaded sales summary PDF"
+  },
+  {
+    "user_id": 223,
+    "username": "tanya.k",
+    "event": "click_ad",
+    "timestamp": "2023-11-01T08:21:19Z",
+    "device": "iOS",
+    "location": "Hyderabad",
+    "details": "Clicked holiday promotion banner"
+  },
+  {
+    "user_id": 207,
+    "username": "meera.s",
+    "event": "logout",
+    "timestamp": "2023-11-01T08:25:14Z",
+    "device": "Android",
+    "location": "Mumbai",
+    "details": "User signed out"
+  },
+  {
+    "user_id": 315,
+    "username": "kiran.m",
+    "event": "login",
+    "timestamp": "2023-11-15T10:02:11Z",
+    "device": "Web",
+    "location": "Pune",
+    "details": "User logged in successfully"
+  },
+  {
+    "user_id": 318,
+    "username": "shalini.p",
+    "event": "view_page",
+    "timestamp": "2023-11-15T10:04:36Z",
+    "device": "Android",
+    "location": "Delhi",
+    "details": "Viewed profile settings page"
+  },
+  {
+    "user_id": 315,
+    "username": "kiran.m",
+    "event": "update_profile",
+    "timestamp": "2023-11-15T10:07:54Z",
+    "device": "Web",
+    "location": "Pune",
+    "details": "Updated contact number"
+  },
+  {
+    "user_id": 322,
+    "username": "farooq.a",
+    "event": "password_reset",
+    "timestamp": "2023-11-15T10:09:18Z",
+    "device": "Web",
+    "location": "Hyderabad",
+    "details": "Password reset requested"
+  },
+  {
+    "user_id": 318,
+    "username": "shalini.p",
+    "event": "click_notification",
+    "timestamp": "2023-11-15T10:12:40Z",
+    "device": "Android",
+    "location": "Delhi",
+    "details": "Clicked security alert notification"
+  },
+  {
+    "user_id": 330,
+    "username": "vinay.s",
+    "event": "login",
+    "timestamp": "2023-11-15T10:15:09Z",
+    "device": "iOS",
+    "location": "Chennai",
+    "details": "Login from new device"
+  },
+  {
+    "user_id": 330,
+    "username": "vinay.s",
+    "event": "logout",
+    "timestamp": "2023-11-15T10:18:55Z",
+    "device": "iOS",
+    "location": "Chennai",
+    "details": "User logged out after inactivity"
+  }
+]
