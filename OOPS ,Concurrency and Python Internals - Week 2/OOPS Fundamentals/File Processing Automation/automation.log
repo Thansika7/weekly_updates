@@ -1,2 +1,8 @@
-[INFO] 2026-02-08 22:15:26,261 - CSV processed: sales.csv | Total Sales: 0.0
-[INFO] 2026-02-08 22:15:26,261 - Moved sales.csv to processed_data/sales
+[INFO] 2026-02-09 10:15:45,689 - TXT processed: file.txt | Total lines: 56
+[INFO] 2026-02-09 10:15:45,689 - JSON processed: logs.json | Records: 12
+[INFO] 2026-02-09 10:15:45,689 - CSV processed: sales.csv | Total Sales: 256999.0
+[INFO] 2026-02-09 10:15:45,698 - Moved sales.csv to processed_data/sales
+[INFO] 2026-02-09 10:15:45,698 - Moved logs.json to processed_data/logs
+[INFO] 2026-02-09 10:15:45,698 - Moved file.txt to processed_data/errors
+
+
