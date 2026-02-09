@@ -44,8 +44,8 @@ def process_file(filename):
 
         elif ext == ".txt":
             with open(file_path, "r", errors="ignore") as f:
-                lines = sum(1 for _ in f)
-            logging.info(f"TXT processed: {filename} | Error lines: {lines}")
+                lines = sum(1 for x in f)
+            logging.info(f"TXT processed: {filename} | Total lines: {lines}")
 
         else:
             return
@@ -62,3 +62,4 @@ if __name__ == "__main__":
 
     with ThreadPoolExecutor(max_workers=5) as executor:
         executor.map(process_file, files)
+
