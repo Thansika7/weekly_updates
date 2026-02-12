@@ -1,0 +1,56 @@
+
+What is automation?
+
+Automation is the application of technology, programs, robotics or processes to achieve outcomes with minimal human input.
+
+Automation is becoming increasingly ubiquitous in the modern world and has countless applications, including: enterprise applications—such as business process automation (BPA), AIOps; enterprise automation, industrial automation applications—such as robotics used in automotive manufacturing and consumer applications—such as home automation.
+
+Automation software and technologies are used in a wide array of industries, from finance to healthcare, utilities to defense and practically everywhere in between. Automation can be used in all aspects of business functions, and organizations that wield it most effectively stand to gain a significant competitive advantage.
+
+Organizations use automation to increase productivity and profitability, improve customer service and satisfaction, reduce costs and operational errors, adhere to compliance standards, optimize operational efficiency and more. Automation is a key component of digital transformation and is invaluable in helping businesses scale.
+Types of automation
+Basic automation
+
+Basic or task automation takes simple, routine tasks and automates them. Basic automation is used to digitize, streamline and centralize manual tasks such as distributing onboarding materials to new hires, forwarding documents for approvals or automatically sending invoices to clients.
+
+Using automation instead of human workers to complete these tasks helps eliminate errors, accelerate the pace of transactional work and free employees from time-consuming tasks. This approach allows them to focus on higher value, more meaningful work.
+Process automation
+
+Process automation takes more complex and repeatable multistep processes (sometimes involving multiple systems) and automates them. Process automation helps bring greater uniformity and transparency to business and IT processes.
+
+Process automation can increase business productivity and efficiency, help deliver new insights into business and IT challenges and surface solutions by using rules-based decisioning. Process mining, workflow automation, business process management (BPM) and robotic process automation (RPA) are examples of process automation.
+Intelligent automation
+
+Intelligent automation is a more advanced form of automation that combines artificial intelligence (AI), business process management and robotic process automation capabilities to streamline and scale decision-making across organizations.
+
+For example, virtual agents that are powered by technologies like natural language processing, intelligent search and RPA can reduce costs and empower both employees and external customers. Such automation contributes to increased productivity and an optimal customer experience. AIOps and AI assistants are other examples of intelligent automation in practice.
+Automation use cases
+
+The use of a repeated set of processes can increase productivity and efficiency and reduce human errors. Automation can drive business value in numerous areas, including:
+Business automation
+
+Business automation refers to technologies used to automate repetitive tasks and processes to streamline business workflows and information technology (IT) systems. These solutions can be tailored specifically to the needs of an organization.
+Content management
+
+Content management solutions capture, store, activate, analyze and automate business content.
+Learn about content management
+Document processing
+
+Document processing solutions use artificial intelligence technologies like machine learning and natural language processing to streamline the processing of business documents.
+Explore document processing solutions
+Document management
+
+Document management solutions capture, track and store information from digital documents.
+Learn about document management
+Workflow automation
+
+Workflow automation solutions use rules-based logic and algorithms to perform tasks with limited to no human interaction.
+Explore workflow automation solutions
+Decision management
+
+Decision management solutions model, manage and automate business decisions through machine learning.
+Explore decision management solutions
+Process-mapping
+
+Process-mapping solutions can improve operations by identifying bottlenecks and enabling cross-organizational collaboration and orchestration.
+Explore process-mapping solutions
