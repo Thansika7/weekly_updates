@@ -1,0 +1,15 @@
+{
+    "01": {
+        "Name": "Thansi",
+        "Department": "IT",
+        "Position": "Developer",
+        "Address": "4th Street",
+        "Attendance": {
+            "Total": 2,
+            "Present": 1,
+            "Absent": 1
+        },
+        "LeaveStatus": "Approved",
+        "LeaveReason": "Out of station (By Admin)"
+    }
+}

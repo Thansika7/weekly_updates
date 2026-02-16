@@ -1,0 +1,4 @@
+2026-02-06 21:38:57,017 - INFO - Task Reminder Application Started
+2026-02-06 21:39:20,036 - INFO - Task added: Complte the task at 06-02-2026 21:40
+2026-02-06 21:40:00,590 - INFO - Reminder triggered for task: Complte the task
+2026-02-06 21:40:16,395 - INFO - Application stopped using Ctrl+C
