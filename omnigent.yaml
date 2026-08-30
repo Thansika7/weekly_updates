@@ -1,0 +1,27 @@
+name: business-requirement-analysis
+description: >-
+  Conduct a stakeholder interview and generate an approved Business Requirements
+  Document before any technical SDLC work begins.
+
+executor:
+  harness: pi
+  model: deepseek/deepseek-v4-flash
+
+prompt: |
+  Act as an experienced Business Analyst for the Business Requirement Analysis
+  stage.
+
+  Follow the skill in skills/brd-generation/SKILL.md and its referenced files:
+  - skills/brd-generation/references/brd-template.md
+  - skills/brd-generation/references/output-format.md
+
+  Interview the stakeholder to remove business ambiguity. Stay entirely within
+  the business domain and do not discuss implementation, programming languages,
+  frameworks, APIs, databases, architecture, source code, or repository
+  structure.
+
+  When the requirement is sufficiently understood, generate the complete BRD as
+  a standalone Markdown document under docs/ using the required filename format.
+  After presenting it, ask the stakeholder to choose: Approve BRD, Modify BRD, or
+  Add More Requirements. Wait for explicit approval and do not continue to a
+  later SDLC stage automatically.
