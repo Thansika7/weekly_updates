@@ -1,0 +1,1063 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Customers>
+  <Customer>
+    <Name>Chanchal Shan</Name>
+    <Email>udyati93@example.com</Email>
+    <City>Unnao</City>
+  </Customer>
+  <Customer>
+    <Name>Hemang Dar</Name>
+    <Email>balixalak@example.com</Email>
+    <City>Patiala</City>
+  </Customer>
+  <Customer>
+    <Name>Gaurang Barad</Name>
+    <Email>joshua05@example.com</Email>
+    <City>Jamnagar</City>
+  </Customer>
+  <Customer>
+    <Name>Damini Sane</Name>
+    <Email>vrishti61@example.org</Email>
+    <City>Kollam</City>
+  </Customer>
+  <Customer>
+    <Name>Jeremiah Kala</Name>
+    <Email>damini36@example.com</Email>
+    <City>Orai</City>
+  </Customer>
+  <Customer>
+    <Name>Wyatt Dayal</Name>
+    <Email>malldevika@example.org</Email>
+    <City>Thrissur</City>
+  </Customer>
+  <Customer>
+    <Name>Gaurav Soni</Name>
+    <Email>balanjason@example.org</Email>
+    <City>Mira-Bhayandar</City>
+  </Customer>
+  <Customer>
+    <Name>Anay Dada</Name>
+    <Email>wbora@example.net</Email>
+    <City>Ambala</City>
+  </Customer>
+  <Customer>
+    <Name>Daksha Dewan</Name>
+    <Email>pantekiya@example.org</Email>
+    <City>Raiganj</City>
+  </Customer>
+  <Customer>
+    <Name>Rushil Das</Name>
+    <Email>hsinghal@example.net</Email>
+    <City>Rajahmundry</City>
+  </Customer>
+  <Customer>
+    <Name>Yashoda Rau</Name>
+    <Email>maanasnazareth@example.com</Email>
+    <City>Madhyamgram</City>
+  </Customer>
+  <Customer>
+    <Name>Niharika Jha</Name>
+    <Email>chaman15@example.org</Email>
+    <City>Berhampore</City>
+  </Customer>
+  <Customer>
+    <Name>Ganga Som</Name>
+    <Email>kamala66@example.net</Email>
+    <City>Darbhanga</City>
+  </Customer>
+  <Customer>
+    <Name>Dayamai Nagarajan</Name>
+    <Email>harshilzacharia@example.net</Email>
+    <City>Ajmer</City>
+  </Customer>
+  <Customer>
+    <Name>Chavvi Luthra</Name>
+    <Email>lopasinha@example.com</Email>
+    <City>Bahraich</City>
+  </Customer>
+  <Customer>
+    <Name>Krisha Issac</Name>
+    <Email>hredhaanyogi@example.org</Email>
+    <City>Kamarhati</City>
+  </Customer>
+  <Customer>
+    <Name>Chandresh Gera</Name>
+    <Email>netra00@example.com</Email>
+    <City>Bhiwani</City>
+  </Customer>
+  <Customer>
+    <Name>Advaith Chanda</Name>
+    <Email>faras45@example.net</Email>
+    <City>Mehsana</City>
+  </Customer>
+  <Customer>
+    <Name>Xalak Shroff</Name>
+    <Email>ubanerjee@example.com</Email>
+    <City>Bhopal</City>
+  </Customer>
+  <Customer>
+    <Name>Meghana Kala</Name>
+    <Email>aggarwalvihaan@example.org</Email>
+    <City>Haridwar</City>
+  </Customer>
+  <Customer>
+    <Name>Ekaja Kapadia</Name>
+    <Email>agastyapandit@example.org</Email>
+    <City>Bally</City>
+  </Customer>
+  <Customer>
+    <Name>Saumya Chaudhary</Name>
+    <Email>sekhonurvashi@example.com</Email>
+    <City>Uluberia</City>
+  </Customer>
+  <Customer>
+    <Name>Pranav Shetty</Name>
+    <Email>maxpillai@example.org</Email>
+    <City>Thane</City>
+  </Customer>
+  <Customer>
+    <Name>Sara Thaman</Name>
+    <Email>omlaksh@example.org</Email>
+    <City>Bhavnagar</City>
+  </Customer>
+  <Customer>
+    <Name>Xavier Sengupta</Name>
+    <Email>sanghviudyati@example.org</Email>
+    <City>Bidar</City>
+  </Customer>
+  <Customer>
+    <Name>Saumya Deo</Name>
+    <Email>nmurty@example.org</Email>
+    <City>Haldia</City>
+  </Customer>
+  <Customer>
+    <Name>Indira Warrior</Name>
+    <Email>vedant57@example.org</Email>
+    <City>Rajahmundry</City>
+  </Customer>
+  <Customer>
+    <Name>Brinda Pant</Name>
+    <Email>riyabhalla@example.org</Email>
+    <City>Sambhal</City>
+  </Customer>
+  <Customer>
+    <Name>Anay Lal</Name>
+    <Email>shankaratharv@example.org</Email>
+    <City>Panihati</City>
+  </Customer>
+  <Customer>
+    <Name>Azaan Shukla</Name>
+    <Email>ikothari@example.net</Email>
+    <City>Karawal Nagar</City>
+  </Customer>
+  <Customer>
+    <Name>Ishwar Mody</Name>
+    <Email>omahal@example.net</Email>
+    <City>Hyderabad</City>
+  </Customer>
+  <Customer>
+    <Name>Mason Sibal</Name>
+    <Email>nkadakia@example.net</Email>
+    <City>Bhagalpur</City>
+  </Customer>
+  <Customer>
+    <Name>Aadhya Tak</Name>
+    <Email>riya33@example.org</Email>
+    <City>Morena</City>
+  </Customer>
+  <Customer>
+    <Name>Priya Butala</Name>
+    <Email>koshyomisha@example.com</Email>
+    <City>Eluru</City>
+  </Customer>
+  <Customer>
+    <Name>Orinder Jha</Name>
+    <Email>vkaur@example.org</Email>
+    <City>Kirari Suleman Nagar</City>
+  </Customer>
+  <Customer>
+    <Name>Sathvik Krishnan</Name>
+    <Email>lallafalak@example.org</Email>
+    <City>Srinagar</City>
+  </Customer>
+  <Customer>
+    <Name>Chandresh Jani</Name>
+    <Email>baghyawatigoswami@example.org</Email>
+    <City>Lucknow</City>
+  </Customer>
+  <Customer>
+    <Name>Ati Agate</Name>
+    <Email>pandyakashish@example.net</Email>
+    <City>Narasaraopet</City>
+  </Customer>
+  <Customer>
+    <Name>Radha Sankaran</Name>
+    <Email>pranav63@example.com</Email>
+    <City>Katihar</City>
+  </Customer>
+  <Customer>
+    <Name>Pushti Dhingra</Name>
+    <Email>aradhanasoman@example.org</Email>
+    <City>Shivpuri</City>
+  </Customer>
+  <Customer>
+    <Name>Eiravati Naidu</Name>
+    <Email>sarnaabeer@example.com</Email>
+    <City>Vellore</City>
+  </Customer>
+  <Customer>
+    <Name>Bhavna Sunder</Name>
+    <Email>dhruvzachariah@example.org</Email>
+    <City>Dehradun</City>
+  </Customer>
+  <Customer>
+    <Name>Jagat Anand</Name>
+    <Email>pranav29@example.com</Email>
+    <City>Surat</City>
+  </Customer>
+  <Customer>
+    <Name>Benjamin Date</Name>
+    <Email>jagdish05@example.org</Email>
+    <City>Siliguri</City>
+  </Customer>
+  <Customer>
+    <Name>Naksh Ganesan</Name>
+    <Email>egolla@example.net</Email>
+    <City>Muzaffarpur</City>
+  </Customer>
+  <Customer>
+    <Name>Xavier Chander</Name>
+    <Email>hiralbandi@example.org</Email>
+    <City>Miryalaguda</City>
+  </Customer>
+  <Customer>
+    <Name>Janaki Brar</Name>
+    <Email>jonathanmorar@example.com</Email>
+    <City>Bhilwara</City>
+  </Customer>
+  <Customer>
+    <Name>Kiaan Solanki</Name>
+    <Email>diya16@example.com</Email>
+    <City>Nandyal</City>
+  </Customer>
+  <Customer>
+    <Name>Edhitha Zachariah</Name>
+    <Email>bahadurjitborra@example.com</Email>
+    <City>Tiruppur</City>
+  </Customer>
+  <Customer>
+    <Name>Nimrat Dhar</Name>
+    <Email>maanavmadan@example.net</Email>
+    <City>Sangli-Miraj &amp; Kupwad</City>
+  </Customer>
+  <Customer>
+    <Name>Faqid Brahmbhatt</Name>
+    <Email>xsule@example.org</Email>
+    <City>Pali</City>
+  </Customer>
+  <Customer>
+    <Name>Oscar Nath</Name>
+    <Email>anayshetty@example.com</Email>
+    <City>Bihar Sharif</City>
+  </Customer>
+  <Customer>
+    <Name>Sathvik Kale</Name>
+    <Email>dixitluke@example.org</Email>
+    <City>Bulandshahr</City>
+  </Customer>
+  <Customer>
+    <Name>Urvi Krish</Name>
+    <Email>byogi@example.com</Email>
+    <City>Anand</City>
+  </Customer>
+  <Customer>
+    <Name>Yashodhara Kapoor</Name>
+    <Email>cgoel@example.org</Email>
+    <City>Junagadh</City>
+  </Customer>
+  <Customer>
+    <Name>Nathaniel Mand</Name>
+    <Email>narangzinal@example.net</Email>
+    <City>Bareilly</City>
+  </Customer>
+  <Customer>
+    <Name>Advaith Sant</Name>
+    <Email>ekansh99@example.com</Email>
+    <City>Bhubaneswar</City>
+  </Customer>
+  <Customer>
+    <Name>Anika Badami</Name>
+    <Email>ksuri@example.net</Email>
+    <City>Ongole</City>
+  </Customer>
+  <Customer>
+    <Name>Reva Lalla</Name>
+    <Email>gsanghvi@example.net</Email>
+    <City>Akola</City>
+  </Customer>
+  <Customer>
+    <Name>Deepa Bera</Name>
+    <Email>raghavbala@example.net</Email>
+    <City>Siwan</City>
+  </Customer>
+  <Customer>
+    <Name>Indali Bhardwaj</Name>
+    <Email>uchoudhry@example.org</Email>
+    <City>Thane</City>
+  </Customer>
+  <Customer>
+    <Name>Kala Oak</Name>
+    <Email>sverma@example.net</Email>
+    <City>Amaravati</City>
+  </Customer>
+  <Customer>
+    <Name>Laksh Tata</Name>
+    <Email>tara80@example.org</Email>
+    <City>Tadepalligudem</City>
+  </Customer>
+  <Customer>
+    <Name>Aadhya Malhotra</Name>
+    <Email>meghamagar@example.org</Email>
+    <City>Bidhannagar</City>
+  </Customer>
+  <Customer>
+    <Name>Benjamin Manda</Name>
+    <Email>ria10@example.net</Email>
+    <City>Burhanpur</City>
+  </Customer>
+  <Customer>
+    <Name>Zarna Kulkarni</Name>
+    <Email>revabrahmbhatt@example.com</Email>
+    <City>Nandyal</City>
+  </Customer>
+  <Customer>
+    <Name>Yatin Arya</Name>
+    <Email>ganeshmax@example.net</Email>
+    <City>Deoghar</City>
+  </Customer>
+  <Customer>
+    <Name>Tanay Kuruvilla</Name>
+    <Email>ckamdar@example.net</Email>
+    <City>Pimpri-Chinchwad</City>
+  </Customer>
+  <Customer>
+    <Name>Vyanjana Dash</Name>
+    <Email>fsant@example.org</Email>
+    <City>Gandhinagar</City>
+  </Customer>
+  <Customer>
+    <Name>Aashi Prabhakar</Name>
+    <Email>daksha60@example.com</Email>
+    <City>Dhanbad</City>
+  </Customer>
+  <Customer>
+    <Name>Chandran Dhar</Name>
+    <Email>dayamai93@example.com</Email>
+    <City>Hajipur</City>
+  </Customer>
+  <Customer>
+    <Name>Falak Butala</Name>
+    <Email>bhavnasood@example.net</Email>
+    <City>Pondicherry</City>
+  </Customer>
+  <Customer>
+    <Name>William Kata</Name>
+    <Email>darika82@example.net</Email>
+    <City>Sultan Pur Majra</City>
+  </Customer>
+  <Customer>
+    <Name>Lekha Iyer</Name>
+    <Email>kallalaban@example.org</Email>
+    <City>Sirsa</City>
+  </Customer>
+  <Customer>
+    <Name>Amara Krishnan</Name>
+    <Email>zayyanmadan@example.com</Email>
+    <City>Shahjahanpur</City>
+  </Customer>
+  <Customer>
+    <Name>Deepa Dar</Name>
+    <Email>mistrykritika@example.com</Email>
+    <City>Karimnagar</City>
+  </Customer>
+  <Customer>
+    <Name>Zaid Krishnamurthy</Name>
+    <Email>rudra25@example.net</Email>
+    <City>Cuttack</City>
+  </Customer>
+  <Customer>
+    <Name>Jairaj Prabhu</Name>
+    <Email>ubhat@example.net</Email>
+    <City>Vasai-Virar</City>
+  </Customer>
+  <Customer>
+    <Name>Michael Sem</Name>
+    <Email>aayushpillay@example.net</Email>
+    <City>Sirsa</City>
+  </Customer>
+  <Customer>
+    <Name>Damini Ratta</Name>
+    <Email>owensheth@example.com</Email>
+    <City>Khora </City>
+  </Customer>
+  <Customer>
+    <Name>Radhika Bail</Name>
+    <Email>haggarwal@example.com</Email>
+    <City>Junagadh</City>
+  </Customer>
+  <Customer>
+    <Name>Madhavi Ghose</Name>
+    <Email>yachana38@example.org</Email>
+    <City>Satna</City>
+  </Customer>
+  <Customer>
+    <Name>Aadhya Dhaliwal</Name>
+    <Email>cpant@example.net</Email>
+    <City>Madurai</City>
+  </Customer>
+  <Customer>
+    <Name>Zehaan Kakar</Name>
+    <Email>amritasastry@example.com</Email>
+    <City>Ballia</City>
+  </Customer>
+  <Customer>
+    <Name>Isha Dhaliwal</Name>
+    <Email>hamsiniacharya@example.net</Email>
+    <City>Khandwa</City>
+  </Customer>
+  <Customer>
+    <Name>Baljiwan Prabhakar</Name>
+    <Email>sneha67@example.com</Email>
+    <City>Maheshtala</City>
+  </Customer>
+  <Customer>
+    <Name>Keya Yogi</Name>
+    <Email>saanvichokshi@example.org</Email>
+    <City>Sirsa</City>
+  </Customer>
+  <Customer>
+    <Name>Abeer Ramachandran</Name>
+    <Email>rishi71@example.com</Email>
+    <City>Amritsar</City>
+  </Customer>
+  <Customer>
+    <Name>Darsh Rastogi</Name>
+    <Email>zarnabanik@example.org</Email>
+    <City>Ratlam</City>
+  </Customer>
+  <Customer>
+    <Name>Eshana Rai</Name>
+    <Email>tmallick@example.net</Email>
+    <City>Gopalpur</City>
+  </Customer>
+  <Customer>
+    <Name>Tripti Bora</Name>
+    <Email>johalcaleb@example.org</Email>
+    <City>Nagpur</City>
+  </Customer>
+  <Customer>
+    <Name>Veer Naik</Name>
+    <Email>ekansh47@example.com</Email>
+    <City>Gangtok</City>
+  </Customer>
+  <Customer>
+    <Name>Utkarsh Nayar</Name>
+    <Email>morematthew@example.net</Email>
+    <City>Unnao</City>
+  </Customer>
+  <Customer>
+    <Name>Laksh Dhaliwal</Name>
+    <Email>emaster@example.com</Email>
+    <City>Danapur</City>
+  </Customer>
+  <Customer>
+    <Name>Tara Keer</Name>
+    <Email>parmarrachana@example.com</Email>
+    <City>Alappuzha</City>
+  </Customer>
+  <Customer>
+    <Name>Lakshmi Mukherjee</Name>
+    <Email>dmand@example.com</Email>
+    <City>Loni</City>
+  </Customer>
+  <Customer>
+    <Name>Chakradev Hegde</Name>
+    <Email>ekavir05@example.com</Email>
+    <City>Ramgarh</City>
+  </Customer>
+  <Customer>
+    <Name>Vasatika Gaba</Name>
+    <Email>sanayabassi@example.net</Email>
+    <City>Khandwa</City>
+  </Customer>
+  <Customer>
+    <Name>Arya Kumer</Name>
+    <Email>imurthy@example.org</Email>
+    <City>Uluberia</City>
+  </Customer>
+  <Customer>
+    <Name>Frado Gara</Name>
+    <Email>wnadig@example.org</Email>
+    <City>Hajipur</City>
+  </Customer>
+  <Customer>
+    <Name>Forum Salvi</Name>
+    <Email>petersharma@example.org</Email>
+    <City>Indore</City>
+  </Customer>
+  <Customer>
+    <Name>Alexander Wable</Name>
+    <Email>mekhalaroy@example.org</Email>
+    <City>Alappuzha</City>
+  </Customer>
+  <Customer>
+    <Name>Vedhika Lall</Name>
+    <Email>tanmayiyadav@example.net</Email>
+    <City>Thiruvananthapuram</City>
+  </Customer>
+  <Customer>
+    <Name>Tanmayi Sunder</Name>
+    <Email>nathaniel61@example.net</Email>
+    <City>Anantapuram</City>
+  </Customer>
+  <Customer>
+    <Name>Ikbal D’Alia</Name>
+    <Email>bandidev@example.org</Email>
+    <City>Rohtak</City>
+  </Customer>
+  <Customer>
+    <Name>Parth Sunder</Name>
+    <Email>stata@example.net</Email>
+    <City>Siwan</City>
+  </Customer>
+  <Customer>
+    <Name>Lopa Dalal</Name>
+    <Email>ikbal77@example.com</Email>
+    <City>Nadiad</City>
+  </Customer>
+  <Customer>
+    <Name>Logan Sarraf</Name>
+    <Email>brao@example.com</Email>
+    <City>South Dumdum</City>
+  </Customer>
+  <Customer>
+    <Name>Ayushman Vasa</Name>
+    <Email>udarshsen@example.org</Email>
+    <City>Shimoga</City>
+  </Customer>
+  <Customer>
+    <Name>Sneha Ramesh</Name>
+    <Email>ndeol@example.com</Email>
+    <City>Burhanpur</City>
+  </Customer>
+  <Customer>
+    <Name>Girindra Sur</Name>
+    <Email>maxpandit@example.org</Email>
+    <City>Ahmednagar</City>
+  </Customer>
+  <Customer>
+    <Name>Chakrika Memon</Name>
+    <Email>kamalakara@example.net</Email>
+    <City>Bhatpara</City>
+  </Customer>
+  <Customer>
+    <Name>Ikshita Bhatt</Name>
+    <Email>orinder92@example.org</Email>
+    <City>Mysore</City>
+  </Customer>
+  <Customer>
+    <Name>Wridesh Raju</Name>
+    <Email>jonathansaxena@example.org</Email>
+    <City>Kulti</City>
+  </Customer>
+  <Customer>
+    <Name>Yashvi Walia</Name>
+    <Email>ckaur@example.net</Email>
+    <City>Bathinda</City>
+  </Customer>
+  <Customer>
+    <Name>Chaman Nori</Name>
+    <Email>wlal@example.org</Email>
+    <City>Hapur</City>
+  </Customer>
+  <Customer>
+    <Name>Lopa Aggarwal</Name>
+    <Email>george25@example.net</Email>
+    <City>Khora </City>
+  </Customer>
+  <Customer>
+    <Name>Samesh Mohanty</Name>
+    <Email>eiravati93@example.org</Email>
+    <City>Belgaum</City>
+  </Customer>
+  <Customer>
+    <Name>Shivani Barad</Name>
+    <Email>ekuruvilla@example.net</Email>
+    <City>Jaunpur</City>
+  </Customer>
+  <Customer>
+    <Name>Girik Balan</Name>
+    <Email>dubechampak@example.com</Email>
+    <City>Kolhapur</City>
+  </Customer>
+  <Customer>
+    <Name>Oscar Ramaswamy</Name>
+    <Email>asawhney@example.org</Email>
+    <City>Kottayam</City>
+  </Customer>
+  <Customer>
+    <Name>Darpan Kata</Name>
+    <Email>rattanandrew@example.org</Email>
+    <City>Gudivada</City>
+  </Customer>
+  <Customer>
+    <Name>Prisha Chad</Name>
+    <Email>rattiosha@example.org</Email>
+    <City>Bhind</City>
+  </Customer>
+  <Customer>
+    <Name>Chaman More</Name>
+    <Email>prakasheta@example.com</Email>
+    <City>Kalyan-Dombivli</City>
+  </Customer>
+  <Customer>
+    <Name>Oviya Natarajan</Name>
+    <Email>keya05@example.com</Email>
+    <City>Mangalore</City>
+  </Customer>
+  <Customer>
+    <Name>Nidra Doshi</Name>
+    <Email>charvilall@example.org</Email>
+    <City>Jodhpur</City>
+  </Customer>
+  <Customer>
+    <Name>Anmol Badami</Name>
+    <Email>charitawagle@example.net</Email>
+    <City>Ranchi</City>
+  </Customer>
+  <Customer>
+    <Name>Osha Prabhu</Name>
+    <Email>idikasoman@example.net</Email>
+    <City>Secunderabad</City>
+  </Customer>
+  <Customer>
+    <Name>Falguni Vasa</Name>
+    <Email>mekhalaarora@example.com</Email>
+    <City>Ongole</City>
+  </Customer>
+  <Customer>
+    <Name>Nitesh Nayak</Name>
+    <Email>sachdevmanbir@example.net</Email>
+    <City>Bhilwara</City>
+  </Customer>
+  <Customer>
+    <Name>Anmol Borde</Name>
+    <Email>zsethi@example.net</Email>
+    <City>Khammam</City>
+  </Customer>
+  <Customer>
+    <Name>Theodore Sethi</Name>
+    <Email>yasti42@example.net</Email>
+    <City>Malegaon</City>
+  </Customer>
+  <Customer>
+    <Name>Gunbir Walia</Name>
+    <Email>mugdha29@example.org</Email>
+    <City>Tezpur</City>
+  </Customer>
+  <Customer>
+    <Name>Ubika Sabharwal</Name>
+    <Email>bimaladugar@example.com</Email>
+    <City>Giridih</City>
+  </Customer>
+  <Customer>
+    <Name>Farhan Tella</Name>
+    <Email>ichauhan@example.com</Email>
+    <City>Amroha</City>
+  </Customer>
+  <Customer>
+    <Name>Nachiket Bawa</Name>
+    <Email>ranbir76@example.com</Email>
+    <City>Bongaigaon</City>
+  </Customer>
+  <Customer>
+    <Name>Lakshit Grover</Name>
+    <Email>qsood@example.net</Email>
+    <City>Jhansi</City>
+  </Customer>
+  <Customer>
+    <Name>Yadavi Mani</Name>
+    <Email>ekalingasura@example.net</Email>
+    <City>Tumkur</City>
+  </Customer>
+  <Customer>
+    <Name>Theodore Rao</Name>
+    <Email>hramaswamy@example.com</Email>
+    <City>Madhyamgram</City>
+  </Customer>
+  <Customer>
+    <Name>Zaitra Nayak</Name>
+    <Email>cmitter@example.com</Email>
+    <City>Coimbatore</City>
+  </Customer>
+  <Customer>
+    <Name>Madhav Talwar</Name>
+    <Email>mitali44@example.com</Email>
+    <City>Kumbakonam</City>
+  </Customer>
+  <Customer>
+    <Name>Sanya Raghavan</Name>
+    <Email>oeshiben@example.com</Email>
+    <City>Madanapalle</City>
+  </Customer>
+  <Customer>
+    <Name>Vansha Sangha</Name>
+    <Email>binarana@example.org</Email>
+    <City>Udaipur</City>
+  </Customer>
+  <Customer>
+    <Name>Nitara D’Alia</Name>
+    <Email>pantbalveer@example.net</Email>
+    <City>Kavali</City>
+  </Customer>
+  <Customer>
+    <Name>Harinakshi Mohanty</Name>
+    <Email>yatin40@example.org</Email>
+    <City>Bokaro</City>
+  </Customer>
+  <Customer>
+    <Name>Vinaya Chadha</Name>
+    <Email>lakshmi92@example.com</Email>
+    <City>Davanagere</City>
+  </Customer>
+  <Customer>
+    <Name>Warinder Gara</Name>
+    <Email>harsh72@example.com</Email>
+    <City>Rajpur Sonarpur</City>
+  </Customer>
+  <Customer>
+    <Name>Joshua Korpal</Name>
+    <Email>frajagopalan@example.org</Email>
+    <City>Malegaon</City>
+  </Customer>
+  <Customer>
+    <Name>Thomas Mall</Name>
+    <Email>mmaster@example.net</Email>
+    <City>Amritsar</City>
+  </Customer>
+  <Customer>
+    <Name>Lekha Rajan</Name>
+    <Email>vbutala@example.org</Email>
+    <City>Chinsurah</City>
+  </Customer>
+  <Customer>
+    <Name>Kashish Dua</Name>
+    <Email>samarth09@example.net</Email>
+    <City>Bharatpur</City>
+  </Customer>
+  <Customer>
+    <Name>Vasudha Wason</Name>
+    <Email>chamelisathe@example.org</Email>
+    <City>Serampore</City>
+  </Customer>
+  <Customer>
+    <Name>Jonathan Dave</Name>
+    <Email>jeetkota@example.net</Email>
+    <City>Rourkela</City>
+  </Customer>
+  <Customer>
+    <Name>Darika Dara</Name>
+    <Email>nkhalsa@example.com</Email>
+    <City>Baranagar</City>
+  </Customer>
+  <Customer>
+    <Name>Yasti Sen</Name>
+    <Email>godaleela@example.net</Email>
+    <City>Kanpur</City>
+  </Customer>
+  <Customer>
+    <Name>Umang Singh</Name>
+    <Email>mannbrijesh@example.com</Email>
+    <City>Ramgarh</City>
+  </Customer>
+  <Customer>
+    <Name>Vedhika Desai</Name>
+    <Email>bhatiaronith@example.com</Email>
+    <City>Davanagere</City>
+  </Customer>
+  <Customer>
+    <Name>Frado Bose</Name>
+    <Email>osachar@example.com</Email>
+    <City>Delhi</City>
+  </Customer>
+  <Customer>
+    <Name>Januja Srinivasan</Name>
+    <Email>yloke@example.org</Email>
+    <City>Gopalpur</City>
+  </Customer>
+  <Customer>
+    <Name>Inaya Sandhu</Name>
+    <Email>latafaras@example.org</Email>
+    <City>Varanasi</City>
+  </Customer>
+  <Customer>
+    <Name>Theodore Bal</Name>
+    <Email>masteranika@example.com</Email>
+    <City>Orai</City>
+  </Customer>
+  <Customer>
+    <Name>Karan Golla</Name>
+    <Email>wkhalsa@example.org</Email>
+    <City>Dhanbad</City>
+  </Customer>
+  <Customer>
+    <Name>Tejas Bahri</Name>
+    <Email>qkumer@example.org</Email>
+    <City>Haldia</City>
+  </Customer>
+  <Customer>
+    <Name>Ekaja Bora</Name>
+    <Email>balhaar79@example.com</Email>
+    <City>Mysore</City>
+  </Customer>
+  <Customer>
+    <Name>Caleb Bassi</Name>
+    <Email>dayita77@example.net</Email>
+    <City>Bathinda</City>
+  </Customer>
+  <Customer>
+    <Name>Harini Zacharia</Name>
+    <Email>lipikaraju@example.net</Email>
+    <City>Mysore</City>
+  </Customer>
+  <Customer>
+    <Name>Bhavya Nigam</Name>
+    <Email>jkhare@example.org</Email>
+    <City>Aurangabad</City>
+  </Customer>
+  <Customer>
+    <Name>Onveer Hari</Name>
+    <Email>vansharege@example.net</Email>
+    <City>Darbhanga</City>
+  </Customer>
+  <Customer>
+    <Name>Libni Swamy</Name>
+    <Email>shuklasneha@example.org</Email>
+    <City>Nashik</City>
+  </Customer>
+  <Customer>
+    <Name>Yasti Loyal</Name>
+    <Email>jjhaveri@example.net</Email>
+    <City>Thanjavur</City>
+  </Customer>
+  <Customer>
+    <Name>Madhavi Goda</Name>
+    <Email>thakurcharvi@example.com</Email>
+    <City>Tirupati</City>
+  </Customer>
+  <Customer>
+    <Name>Raksha Madan</Name>
+    <Email>poza@example.com</Email>
+    <City>Gudivada</City>
+  </Customer>
+  <Customer>
+    <Name>Kamya Gour</Name>
+    <Email>vmodi@example.org</Email>
+    <City>Jalgaon</City>
+  </Customer>
+  <Customer>
+    <Name>Advik Sane</Name>
+    <Email>agatebishakha@example.org</Email>
+    <City>Aurangabad</City>
+  </Customer>
+  <Customer>
+    <Name>Hemangini Raman</Name>
+    <Email>jnagi@example.org</Email>
+    <City>Solapur</City>
+  </Customer>
+  <Customer>
+    <Name>Ronith Chaudhry</Name>
+    <Email>adugal@example.net</Email>
+    <City>Kavali</City>
+  </Customer>
+  <Customer>
+    <Name>Chatresh Mahal</Name>
+    <Email>veda40@example.net</Email>
+    <City>Gopalpur</City>
+  </Customer>
+  <Customer>
+    <Name>Nirja Virk</Name>
+    <Email>chauhanfinn@example.org</Email>
+    <City>Morbi</City>
+  </Customer>
+  <Customer>
+    <Name>Arunima Patil</Name>
+    <Email>ugarde@example.com</Email>
+    <City>Durg</City>
+  </Customer>
+  <Customer>
+    <Name>Rachit Dey</Name>
+    <Email>nilima42@example.org</Email>
+    <City>Kulti</City>
+  </Customer>
+  <Customer>
+    <Name>Ria Luthra</Name>
+    <Email>sachdevaayushman@example.org</Email>
+    <City>Haldia</City>
+  </Customer>
+  <Customer>
+    <Name>Ria Goyal</Name>
+    <Email>sdani@example.net</Email>
+    <City>Shimla</City>
+  </Customer>
+  <Customer>
+    <Name>Anamika Pal</Name>
+    <Email>kmore@example.org</Email>
+    <City>Loni</City>
+  </Customer>
+  <Customer>
+    <Name>Tanveer Sama</Name>
+    <Email>kevinsaraf@example.org</Email>
+    <City>Suryapet</City>
+  </Customer>
+  <Customer>
+    <Name>Varsha Dara</Name>
+    <Email>itoor@example.net</Email>
+    <City>Delhi</City>
+  </Customer>
+  <Customer>
+    <Name>Nitara Venkatesh</Name>
+    <Email>devansh77@example.org</Email>
+    <City>Cuttack</City>
+  </Customer>
+  <Customer>
+    <Name>Nitara Roy</Name>
+    <Email>reyanshrajan@example.org</Email>
+    <City>Bettiah</City>
+  </Customer>
+  <Customer>
+    <Name>Sathvik Memon</Name>
+    <Email>advaith97@example.net</Email>
+    <City>Tiruchirappalli</City>
+  </Customer>
+  <Customer>
+    <Name>Jonathan Lanka</Name>
+    <Email>ghosezinal@example.net</Email>
+    <City>Kochi</City>
+  </Customer>
+  <Customer>
+    <Name>Mohini Dalal</Name>
+    <Email>praneelkade@example.com</Email>
+    <City>Lucknow</City>
+  </Customer>
+  <Customer>
+    <Name>Zinal Prabhakar</Name>
+    <Email>gwali@example.org</Email>
+    <City>Jaunpur</City>
+  </Customer>
+  <Customer>
+    <Name>Ganga Bava</Name>
+    <Email>qkanda@example.org</Email>
+    <City>Sultan Pur Majra</City>
+  </Customer>
+  <Customer>
+    <Name>Rayaan Bora</Name>
+    <Email>usachdev@example.com</Email>
+    <City>Thane</City>
+  </Customer>
+  <Customer>
+    <Name>Janya Batta</Name>
+    <Email>xbhavsar@example.com</Email>
+    <City>Dharmavaram</City>
+  </Customer>
+  <Customer>
+    <Name>Nakul Jaggi</Name>
+    <Email>behludarsh@example.org</Email>
+    <City>Kanpur</City>
+  </Customer>
+  <Customer>
+    <Name>Chanchal Pillai</Name>
+    <Email>wahabpatla@example.org</Email>
+    <City>Tadipatri</City>
+  </Customer>
+  <Customer>
+    <Name>Adya Rana</Name>
+    <Email>matthew21@example.org</Email>
+    <City>Secunderabad</City>
+  </Customer>
+  <Customer>
+    <Name>Panini Gaba</Name>
+    <Email>chandrawarhi@example.org</Email>
+    <City>Hosur</City>
+  </Customer>
+  <Customer>
+    <Name>Ekavir Mistry</Name>
+    <Email>mitalibali@example.net</Email>
+    <City>Morbi</City>
+  </Customer>
+  <Customer>
+    <Name>Janani Palla</Name>
+    <Email>devanarin@example.net</Email>
+    <City>Kumbakonam</City>
+  </Customer>
+  <Customer>
+    <Name>Triveni Wagle</Name>
+    <Email>onarula@example.org</Email>
+    <City>Noida</City>
+  </Customer>
+  <Customer>
+    <Name>Vihaan Deol</Name>
+    <Email>yashodhara36@example.org</Email>
+    <City>Bhopal</City>
+  </Customer>
+  <Customer>
+    <Name>Samuel Kapoor</Name>
+    <Email>tanmayisama@example.net</Email>
+    <City>Asansol</City>
+  </Customer>
+  <Customer>
+    <Name>Suhani Kibe</Name>
+    <Email>jeet66@example.com</Email>
+    <City>Srikakulam</City>
+  </Customer>
+  <Customer>
+    <Name>Bishakha Dar</Name>
+    <Email>nakul92@example.org</Email>
+    <City>Surat</City>
+  </Customer>
+  <Customer>
+    <Name>Hemal Sule</Name>
+    <Email>daliaunni@example.net</Email>
+    <City>Guntur</City>
+  </Customer>
+  <Customer>
+    <Name>Bahadurjit Bhagat</Name>
+    <Email>devanshtara@example.org</Email>
+    <City>Asansol</City>
+  </Customer>
+  <Customer>
+    <Name>Harinakshi Chopra</Name>
+    <Email>ekbalpuri@example.org</Email>
+    <City>Ludhiana</City>
+  </Customer>
+  <Customer>
+    <Name>Bachittar Tailor</Name>
+    <Email>kevinbalay@example.net</Email>
+    <City>Satna</City>
+  </Customer>
+  <Customer>
+    <Name>Vamakshi Thakur</Name>
+    <Email>zaid16@example.net</Email>
+    <City>Sirsa</City>
+  </Customer>
+  <Customer>
+    <Name>Vasatika Bhavsar</Name>
+    <Email>victor79@example.org</Email>
+    <City>Jalandhar</City>
+  </Customer>
+  <Customer>
+    <Name>Vedhika Agarwal</Name>
+    <Email>yochana30@example.com</Email>
+    <City>South Dumdum</City>
+  </Customer>
+</Customers>

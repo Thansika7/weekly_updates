@@ -1,0 +1,13 @@
+{"timestamp":"2026-03-12T08:22:48.439017Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-12T08:22:48.445722Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-12T08:22:49.558824Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:49.576557Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:49.584893Z","level":"info","event":"Current task name:transform_xml","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:49.605520Z","level":"info","event":"Dag name:sales_etl_star_schema","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:49.867343Z","level":"info","event":"Transformed XML created: /opt/airflow/dags/xml report/customers_report.xml","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:50.036917Z","level":"info","event":"Transformed XML created: /opt/airflow/dags/xml report/products_report.xml","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:50.310525Z","level":"info","event":"Transformed XML created: /opt/airflow/dags/xml report/analytics_report.xml","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:50.316340Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-03-12T08:22:50.418739Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:50.422121Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-03-12T08:22:50.428953Z","level":"info","event":"Task operator:<Task(PythonOperator): transform_xml>","logger":"task.stdout"}

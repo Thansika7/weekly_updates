@@ -1,0 +1,12 @@
+{"timestamp":"2026-03-11T16:59:57.438583Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-11T16:59:57.462060Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-11T16:59:58.659250Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-03-11T16:59:58.664982Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-03-11T16:59:58.667139Z","level":"info","event":"Current task name:export_xml","logger":"task.stdout"}
+{"timestamp":"2026-03-11T16:59:58.668777Z","level":"info","event":"Dag name:sales_etl_star_schema","logger":"task.stdout"}
+{"timestamp":"2026-03-11T17:00:00.213833Z","level":"warning","event":"pandas only supports SQLAlchemy connectable (engine/connection) or database string URI or sqlite3 DBAPI2 connection. Other DBAPI2 objects are not tested. Please consider using SQLAlchemy.","category":"UserWarning","filename":"/opt/airflow/dags/etl_dag.py","lineno":197,"logger":"py.warnings"}
+{"timestamp":"2026-03-11T17:00:01.358070Z","level":"info","event":"XML exported successfully","logger":"task.stdout"}
+{"timestamp":"2026-03-11T17:00:01.367734Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-03-11T17:00:01.466579Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-03-11T17:00:01.476527Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-03-11T17:00:01.480172Z","level":"info","event":"Task operator:<Task(PythonOperator): export_xml>","logger":"task.stdout"}

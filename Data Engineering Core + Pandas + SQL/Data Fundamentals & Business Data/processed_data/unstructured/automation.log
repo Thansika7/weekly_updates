@@ -1,0 +1,160 @@
+[INFO] 2026-02-09 16:00:32,762 - TXT processed: error3.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:32,843 - Moved error3.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:32,911 - TXT processed: error2.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:32,919 - Moved error2.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:32,966 - TXT processed: error0.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:32,997 - Moved error0.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,013 - TXT processed: error4.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,030 - Moved error4.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,044 - TXT processed: error5.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,150 - Moved error5.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,165 - TXT processed: error9.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,190 - TXT processed: error8.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,217 - Moved error9.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,235 - TXT processed: error6.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,251 - Moved error8.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,273 - Moved error6.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:33,377 - TXT processed: error1.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:33,537 - Moved error1.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:34,527 - CSV processed: sales_0.csv | Total Sales: 101007343.73999886
+[INFO] 2026-02-09 16:00:34,657 - TXT processed: error7.txt | Total lines: 150000
+[INFO] 2026-02-09 16:00:34,665 - CSV processed: sales_3.csv | Total Sales: 101228825.13999812
+[INFO] 2026-02-09 16:00:34,832 - Moved sales_0.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:34,914 - Moved error7.txt to processed_data/errors
+[INFO] 2026-02-09 16:00:34,995 - Moved sales_3.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:35,313 - CSV processed: sales_2.csv | Total Sales: 101025465.97999752
+[INFO] 2026-02-09 16:00:35,353 - CSV processed: sales_1.csv | Total Sales: 101100493.21000068
+[INFO] 2026-02-09 16:00:35,419 - Moved sales_2.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:35,503 - Moved sales_1.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:36,154 - CSV processed: sales_4.csv | Total Sales: 100735267.85000232
+[INFO] 2026-02-09 16:00:36,401 - Moved sales_4.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:37,038 - JSON processed: user_logs_0.json | Records: 80000
+[INFO] 2026-02-09 16:00:37,213 - Moved user_logs_0.json to processed_data/logs
+[INFO] 2026-02-09 16:00:37,395 - CSV processed: sales_6.csv | Total Sales: 101095252.78000112
+[INFO] 2026-02-09 16:00:37,530 - Moved sales_6.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:37,599 - CSV processed: sales_5.csv | Total Sales: 101060173.13000123
+[INFO] 2026-02-09 16:00:37,808 - JSON processed: user_logs_1.json | Records: 80000
+[INFO] 2026-02-09 16:00:37,878 - Moved sales_5.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:38,020 - JSON processed: user_logs_2.json | Records: 80000
+[INFO] 2026-02-09 16:00:38,096 - CSV processed: sales_8.csv | Total Sales: 100991435.37999974
+[INFO] 2026-02-09 16:00:38,107 - CSV processed: sales_7.csv | Total Sales: 101006861.0700005
+[INFO] 2026-02-09 16:00:38,314 - Moved user_logs_2.json to processed_data/logs
+[INFO] 2026-02-09 16:00:38,423 - JSON processed: user_logs_3.json | Records: 80000
+[INFO] 2026-02-09 16:00:38,448 - Moved user_logs_1.json to processed_data/logs
+[INFO] 2026-02-09 16:00:38,473 - Moved sales_8.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:38,507 - Moved sales_7.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:38,515 - Moved user_logs_3.json to processed_data/logs
+[INFO] 2026-02-09 16:00:38,755 - JSON processed: user_logs_6.json | Records: 80000
+[INFO] 2026-02-09 16:00:38,755 - JSON processed: user_logs_4.json | Records: 80000
+[INFO] 2026-02-09 16:00:38,770 - CSV processed: sales_9.csv | Total Sales: 101030151.75000075
+[INFO] 2026-02-09 16:00:38,807 - Moved user_logs_6.json to processed_data/logs
+[INFO] 2026-02-09 16:00:38,988 - JSON processed: user_logs_5.json | Records: 80000
+[INFO] 2026-02-09 16:00:38,991 - Moved sales_9.csv to processed_data/sales
+[INFO] 2026-02-09 16:00:38,991 - Moved user_logs_4.json to processed_data/logs
+[INFO] 2026-02-09 16:00:39,045 - JSON processed: user_logs_7.json | Records: 80000
+[INFO] 2026-02-09 16:00:39,052 - Moved user_logs_5.json to processed_data/logs
+[INFO] 2026-02-09 16:00:39,170 - JSON processed: user_logs_8.json | Records: 80000
+[INFO] 2026-02-09 16:00:39,261 - JSON processed: user_logs_9.json | Records: 80000
+[INFO] 2026-02-09 16:00:39,261 - Moved user_logs_7.json to processed_data/logs
+[INFO] 2026-02-09 16:00:39,261 - Moved user_logs_8.json to processed_data/logs
+[INFO] 2026-02-09 16:00:39,292 - Moved user_logs_9.json to processed_data/logs
+[INFO] 2026-02-09 16:01:20,756 - Excel processed: order_data_5.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:21,623 - Moved order_data_5.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:21,796 - Excel processed: order_data_1.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:22,079 - Moved order_data_1.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:22,556 - Excel processed: order_data_4.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:22,674 - Moved order_data_4.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:22,674 - Excel processed: order_data_9.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:22,902 - Moved order_data_9.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:23,452 - Excel processed: order_data_2.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:23,515 - Moved order_data_2.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:25,066 - Excel processed: order_data_6.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:25,136 - Excel processed: order_data_3.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:25,136 - Moved order_data_6.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:25,278 - Moved order_data_3.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:25,320 - Excel processed: order_data_0.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:25,320 - Moved order_data_0.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:25,535 - Excel processed: order_data_7.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:25,543 - Moved order_data_7.xlsx to processed_data/orders
+[INFO] 2026-02-09 16:01:25,577 - Excel processed: order_data_8.xlsx | Order IDs count: 200000
+[INFO] 2026-02-09 16:01:25,581 - Moved order_data_8.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:29:57,045 - TXT processed: error1.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:57,092 - Moved error1.txt to processed_data/errors
+[INFO] 2026-02-10 10:29:57,123 - TXT processed: error7.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:57,136 - Moved error7.txt to processed_data/errors
+[INFO] 2026-02-10 10:29:57,219 - TXT processed: error5.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:57,345 - Moved error5.txt to processed_data/errors
+[INFO] 2026-02-10 10:29:57,957 - TXT processed: error9.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:58,004 - Moved error9.txt to processed_data/errors
+[INFO] 2026-02-10 10:29:58,037 - TXT processed: error8.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:58,142 - Moved error8.txt to processed_data/errors
+[INFO] 2026-02-10 10:29:58,348 - TXT processed: error6.txt | Error lines: 150000
+[INFO] 2026-02-10 10:29:58,458 - Moved error6.txt to processed_data/errors
+[INFO] 2026-02-10 10:30:00,471 - TXT processed: error2.txt | Error lines: 150000
+[INFO] 2026-02-10 10:30:00,540 - TXT processed: error3.txt | Error lines: 150000
+[INFO] 2026-02-10 10:30:00,602 - Moved error2.txt to processed_data/errors
+[INFO] 2026-02-10 10:30:00,647 - TXT processed: error0.txt | Error lines: 150000
+[INFO] 2026-02-10 10:30:00,647 - Moved error3.txt to processed_data/errors
+[INFO] 2026-02-10 10:30:00,735 - CSV processed: sales_0.csv | Total Sales: 100880946.65000202
+[INFO] 2026-02-10 10:30:00,748 - Moved error0.txt to processed_data/errors
+[INFO] 2026-02-10 10:30:00,824 - Moved sales_0.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:01,301 - CSV processed: sales_1.csv | Total Sales: 100931262.75999933
+[INFO] 2026-02-10 10:30:01,497 - Moved sales_1.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:01,592 - Excel processed: order_data_3.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:01,759 - Moved order_data_3.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:02,528 - TXT processed: error4.txt | Error lines: 150000
+[INFO] 2026-02-10 10:30:02,965 - Moved error4.txt to processed_data/errors
+[INFO] 2026-02-10 10:30:03,693 - Excel processed: order_data_5.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:04,360 - Moved order_data_5.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:04,428 - Excel processed: order_data_4.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:04,469 - Excel processed: order_data_2.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:04,634 - Moved order_data_2.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:04,634 - CSV processed: sales_5.csv | Total Sales: 101051225.89000288
+[INFO] 2026-02-10 10:30:04,718 - Moved order_data_4.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:04,834 - Moved sales_5.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:05,280 - JSON processed: user_logs_0.json | Records: 80000
+[INFO] 2026-02-10 10:30:05,441 - JSON processed: user_logs_2.json | Records: 80000
+[INFO] 2026-02-10 10:30:05,493 - Excel processed: order_data_0.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:05,563 - Moved user_logs_2.json to processed_data/logs
+[INFO] 2026-02-10 10:30:05,667 - Moved order_data_0.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:05,726 - Excel processed: order_data_1.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:05,752 - CSV processed: sales_6.csv | Total Sales: 100966815.69999921
+[INFO] 2026-02-10 10:30:05,784 - Moved user_logs_0.json to processed_data/logs
+[INFO] 2026-02-10 10:30:06,035 - Moved sales_6.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:06,567 - JSON processed: user_logs_1.json | Records: 80000
+[INFO] 2026-02-10 10:30:06,618 - JSON processed: user_logs_4.json | Records: 80000
+[INFO] 2026-02-10 10:30:06,618 - Moved order_data_1.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:06,755 - JSON processed: user_logs_3.json | Records: 80000
+[INFO] 2026-02-10 10:30:06,826 - JSON processed: user_logs_6.json | Records: 80000
+[INFO] 2026-02-10 10:30:06,921 - Moved user_logs_1.json to processed_data/logs
+[INFO] 2026-02-10 10:30:06,967 - Moved user_logs_4.json to processed_data/logs
+[INFO] 2026-02-10 10:30:06,978 - Moved user_logs_6.json to processed_data/logs
+[INFO] 2026-02-10 10:30:07,050 - Moved user_logs_3.json to processed_data/logs
+[INFO] 2026-02-10 10:30:07,494 - JSON processed: user_logs_9.json | Records: 80000
+[INFO] 2026-02-10 10:30:07,610 - JSON processed: user_logs_5.json | Records: 80000
+[INFO] 2026-02-10 10:30:07,811 - JSON processed: user_logs_7.json | Records: 80000
+[INFO] 2026-02-10 10:30:07,883 - Moved user_logs_9.json to processed_data/logs
+[INFO] 2026-02-10 10:30:08,027 - JSON processed: user_logs_8.json | Records: 80000
+[INFO] 2026-02-10 10:30:08,223 - Moved user_logs_5.json to processed_data/logs
+[INFO] 2026-02-10 10:30:08,286 - Moved user_logs_7.json to processed_data/logs
+[INFO] 2026-02-10 10:30:08,327 - Moved user_logs_8.json to processed_data/logs
+[INFO] 2026-02-10 10:30:08,602 - Excel processed: order_data_7.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:08,727 - Moved order_data_7.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:08,727 - CSV processed: sales_3.csv | Total Sales: 100829676.28000052
+[INFO] 2026-02-10 10:30:08,777 - Excel processed: order_data_8.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:08,843 - CSV processed: sales_2.csv | Total Sales: 100976215.55999804
+[INFO] 2026-02-10 10:30:08,869 - CSV processed: sales_4.csv | Total Sales: 100727023.14000145
+[INFO] 2026-02-10 10:30:08,884 - Moved order_data_8.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:08,884 - Moved sales_3.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:08,884 - CSV processed: sales_7.csv | Total Sales: 100886095.41999947
+[INFO] 2026-02-10 10:30:08,995 - Moved sales_2.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:09,011 - Moved sales_7.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:09,019 - Moved sales_4.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:09,168 - CSV processed: sales_8.csv | Total Sales: 101315557.82000163
+[INFO] 2026-02-10 10:30:09,247 - Moved sales_8.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:09,430 - CSV processed: sales_9.csv | Total Sales: 100934438.22000039
+[INFO] 2026-02-10 10:30:09,488 - Moved sales_9.csv to processed_data/sales
+[INFO] 2026-02-10 10:30:09,770 - Excel processed: order_data_9.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:09,786 - Excel processed: order_data_6.xlsx | Order IDs count: 20000
+[INFO] 2026-02-10 10:30:09,793 - Moved order_data_9.xlsx to processed_data/orders
+[INFO] 2026-02-10 10:30:09,793 - Moved order_data_6.xlsx to processed_data/orders

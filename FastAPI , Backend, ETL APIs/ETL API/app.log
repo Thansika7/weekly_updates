@@ -1,0 +1,6 @@
+2026-02-23 22:55:43,286 - INFO - Upload started
+2026-02-23 22:55:43,359 - INFO - File received: laptopData.csv.csv
+2026-02-23 22:55:43,363 - INFO - Before cleaning: 1303
+2026-02-23 22:55:43,396 - INFO - After cleaning: 1271
+2026-02-23 22:55:43,442 - INFO - Transformation complete
+2026-02-23 22:55:45,012 - INFO - 1271 records inserted
