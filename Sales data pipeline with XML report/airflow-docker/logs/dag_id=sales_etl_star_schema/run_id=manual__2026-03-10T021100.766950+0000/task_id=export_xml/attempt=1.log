@@ -1,0 +1,12 @@
+{"timestamp":"2026-03-10T02:11:36.869792Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-03-10T02:11:36.879624Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_dag.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-10T02:11:37.838674Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/etl_dag.py","lineno":2,"logger":"py.warnings"}
+{"timestamp":"2026-03-10T02:11:37.938619Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:37.940180Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:37.941580Z","level":"info","event":"Current task name:export_xml","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:37.942943Z","level":"info","event":"Dag name:sales_etl_star_schema","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:38.748916Z","level":"info","event":"XML report saved to: /opt/airflow/uploads/sales_report_20260310.xml","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:38.752300Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":230}
+{"timestamp":"2026-03-10T02:11:38.805077Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:38.806425Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2026-03-10T02:11:38.808230Z","level":"info","event":"Task operator:<Task(PythonOperator): export_xml>","logger":"task.stdout"}

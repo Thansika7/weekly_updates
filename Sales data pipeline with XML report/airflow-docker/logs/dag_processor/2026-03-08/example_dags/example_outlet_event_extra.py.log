@@ -1,0 +1,14 @@
+{"timestamp":"2026-03-08T01:41:22.516368Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_outlet_event_extra.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-08T01:41:52.305515Z","level":"error","event":"Process timed out, PID: 58","logger":"airflow.models.dagbag","filename":"dagbag.py","lineno":134}
+{"timestamp":"2026-03-08T01:41:53.968391Z","level":"error","event":"Exception ignored in: <module 'collections.abc' from '/usr/python/lib/python3.12/collections/abc.py'>","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:53.986226Z","level":"error","event":"Traceback (most recent call last):","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:53.989630Z","level":"error","event":"  File \"<string>\", line 0, in <module>","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:53.998838Z","level":"error","event":"  File \"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py\", line 135, in handle_timeout","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:54.001829Z","level":"error","event":"    raise AirflowTaskTimeout(error_message)","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:54.005536Z","level":"error","event":"airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_outlet_event_extra.py after 30.0s.","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:54.018348Z","level":"error","event":"Please take a look at these docs to improve your DAG import time:","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:54.022646Z","level":"error","event":"* https://airflow.apache.org/docs/apache-airflow/3.1.7/best-practices.html#top-level-python-code","logger":"task.stderr"}
+{"timestamp":"2026-03-08T01:41:54.030011Z","level":"error","event":"* https://airflow.apache.org/docs/apache-airflow/3.1.7/best-practices.html#reducing-dag-complexity, PID: 58","logger":"task.stderr"}
+{"timestamp":"2026-03-08T02:34:21.651380Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_outlet_event_extra.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-08T02:35:22.883166Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_outlet_event_extra.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-03-08T02:35:58.916952Z","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_outlet_event_extra.py","logger":"airflow.models.dagbag.BundleDagBag","filename":"dagbag.py","lineno":593}
